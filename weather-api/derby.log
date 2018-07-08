@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 08 18:26:35 SGT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0164-796d-c88e-00000e623af8 
+on database directory C:\test\WEATHERAPI with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/jmarc/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-b12
+user.dir=D:\Dev\Tuts\Knowledge_Base\weather-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

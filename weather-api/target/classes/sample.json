@@ -1,0 +1,129 @@
+{
+	"cnt": 3,
+	"list": [
+		{
+			"coord": {
+				"lon": -0.13,
+				"lat": 51.51
+			},
+			"sys": {
+				"type": 1,
+				"id": 5091,
+				"message": 0.0184,
+				"country": "GB",
+				"sunrise": 1530935559,
+				"sunset": 1530994669
+			},
+			"weather": [
+				{
+					"id": 721,
+					"main": "Haze",
+					"description": "haze",
+					"icon": "50d"
+				},
+				{
+					"id": 701,
+					"main": "Mist",
+					"description": "mist",
+					"icon": "50d"
+				}
+			],
+			"main": {
+				"temp": 22.39,
+				"pressure": 1024,
+				"humidity": 60,
+				"temp_min": 20,
+				"temp_max": 24
+			},
+			"visibility": 9000,
+			"wind": {
+				"speed": 0.5
+			},
+			"clouds": {
+				"all": 0
+			},
+			"dt": 1530952100,
+			"id": 2643743,
+			"name": "London"
+		},
+		{
+			"coord": {
+				"lon": 14.42,
+				"lat": 50.09
+			},
+			"sys": {
+				"type": 1,
+				"id": 5889,
+				"message": 0.0227,
+				"country": "CZ",
+				"sunrise": 1530932497,
+				"sunset": 1530990749
+			},
+			"weather": [
+				{
+					"id": 800,
+					"main": "Clear",
+					"description": "clear sky",
+					"icon": "01d"
+				}
+			],
+			"main": {
+				"temp": 19,
+				"pressure": 1020,
+				"humidity": 25,
+				"temp_min": 19,
+				"temp_max": 19
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 6.7,
+				"deg": 280
+			},
+			"clouds": {
+				"all": 0
+			},
+			"dt": 1530952100,
+			"id": 3067696,
+			"name": "Prague"
+		},
+		{
+			"coord": {
+				"lon": -75.98,
+				"lat": 6.12
+			},
+			"sys": {
+				"type": 1,
+				"id": 4274,
+				"message": 0.0073,
+				"country": "CO",
+				"sunrise": 1530960904,
+				"sunset": 1531005766
+			},
+			"weather": [
+				{
+					"id": 803,
+					"main": "Clouds",
+					"description": "broken clouds",
+					"icon": "04n"
+				}
+			],
+			"main": {
+				"temp": 15,
+				"pressure": 1024,
+				"humidity": 93,
+				"temp_min": 15,
+				"temp_max": 15
+			},
+			"visibility": 10000,
+			"wind": {
+				"speed": 1
+			},
+			"clouds": {
+				"all": 75
+			},
+			"dt": 1530952100,
+			"id": 3669857,
+			"name": "San Francisco"
+		}
+	]
+}
